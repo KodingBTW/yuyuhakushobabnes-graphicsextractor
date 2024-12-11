@@ -1,4 +1,4 @@
-I made this tool to easily extract the graphics from the game "Yu Yu Hakusho - Bakutou Ankoku Bujutsukai (J).nes", the graphics are in the chr ram, and they use an RLE compression algorithm. Use yychr or whatever graphic editor for edit, then compress again.
+I made this tool to easily extract the graphics from the game "Yu Yu Hakusho - Bakutou Ankoku Bujutsukai (J).nes", the graphics are in the chr ram, and they use an RLE compression algorithm. Use yychr or any graphic editor for edit, then compress again.
 
 ## Usage
 
