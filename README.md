@@ -6,7 +6,7 @@ Synopsis:
 ```
  [-d | -c]  -- decompress  --compress
 ```
-utput version information
+If you need edit the texts use: https://github.com/KodingBTW/yuyuhakushobabnes-translationtool
 ```
 
 ## Frecuency Answer Questions
