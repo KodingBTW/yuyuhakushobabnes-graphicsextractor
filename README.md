@@ -4,9 +4,11 @@ I made this tool to easily extract the graphics from the game "Yu Yu Hakusho - B
 
 Synopsis:
 ```
- [-d | -c]  -- decompress  --compress
+yyhbab2bin.exe [-d | -c]  -- decompress  --compress
 ```
 If you need edit the texts use: https://github.com/KodingBTW/yuyuhakushobabnes-translationtool
+
+ROM name has to be "Yu Yu Hakusho - Bakutou Ankoku Bujutsukai (J).nes", place extarctor in the same patch, open console and write "yyhbab2bin.exe -d", extract bin, then edit bin files. put "yyhbab2bin.exe -c" to compress again.
 
 ## Frecuency Answer Questions
 
